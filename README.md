@@ -37,3 +37,10 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+
+
+
+The nURL i deployed the application   https://hanialzir.herokuapp.com/
+I changed the name of from the random named crated by heroku to my name as showen
+Had some problems running my own application in the beggining, tried to run the commands first on CMD the tried it on the VSC terminal but i did face some problems
+so in the end i did work on this lab with gitbash and it was complet.
